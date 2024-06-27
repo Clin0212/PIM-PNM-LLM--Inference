@@ -16,6 +16,30 @@ Links to conference/journal publications in PIM/PNM of LLM inference.
 [[Paper](https://arxiv.org/pdf/2401.14428)]
     - Not LLM-specific.
 
+### 2. Technology: PIM or PNM
+#### 2.1 PIM （Processing-In-Memory）
+
+#### 2.2 PNM （Processing-Near-Memory）
+
+
+### 3. Benchmark （LLM Inference, Recommender System，Graph Processing）
+
+### 4. Industry V.S. Academic
+
+### 5. Platform (DDR type)
+
+### 6. Complexity of computation / storage units
+
+### 7. Software-level programming framework (model splitting and task scheduling)
+- `2023` | ` SOSP 2023`| Efficient Memory Management for Large Language Model Serving with PagedAttention
+
+- `2024` | ` PPoPP 2024`| LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization
+
+- `2024` | ` Arxiv 2024`| AttentionLego: An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology
+
+### 8. System scalability (memory v.s. computing)
+
+
 
 ### 2. unknown
 - `2024` | ` IEEE Micro 2024`| The Breakthrough Memory Solutions for Improved Performance on LLM Inference 
@@ -33,7 +57,7 @@ Links to conference/journal publications in PIM/PNM of LLM inference.
 
 - `2024` | ` ISCA 2024`| MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition
 
-- `2023` | ` SOSP 2023`| Efficient Memory Management for Large Language Model Serving with PagedAttention
+
 
 
 - `2024` | ` FPGA 2024`| FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs
@@ -42,10 +66,10 @@ Links to conference/journal publications in PIM/PNM of LLM inference.
 
 
 
-- `2024` | ` PPoPP 2024`| LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization
 
 
-- `2024` | ` Arxiv 2024`| AttentionLego: An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology
+
+
 
 
 - `2024` | ` Arxiv 2024`| Efficient Sparse Processing-in-Memory Architecture (ESPIM) for Machine Learning Inference
