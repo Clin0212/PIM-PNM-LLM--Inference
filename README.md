@@ -52,6 +52,9 @@ Links to conference/journal publications in PIM/PNM of LLM inference.
 ### 6. Complexity of computation / storage units
 
 ### 7. Software-level programming framework (model splitting and task scheduling)
+
+- `2024` | ` ISCA 2024`| Splitwise: Efficient Generative LLM Inference Using Phase Splitting
+
 - `2023` | ` SOSP 2023`| Efficient Memory Management for Large Language Model Serving with PagedAttention
 
 - `2024` | ` PPoPP 2024`| LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization
